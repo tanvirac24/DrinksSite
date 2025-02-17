@@ -1,0 +1,90 @@
+#area{
+    height: 20px;
+}
+.place{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#items{
+    margin-top: 20px;
+    display: flex;
+    justify-content:left;
+    width: 80%;
+    box-shadow: 4px 4px 4px gray;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+.imaget{
+    width: 100%;
+    
+}
+.card{
+    width: 20%;
+}
+.heading{
+    font-weight: 800;
+    font-size:smaller;
+}
+.fonts{
+    font-size: small;
+    font-weight: 400;
+}
+.extra{
+    background-color: green;
+    margin-bottom: 4px;
+    color: aliceblue;
+    border-radius: 8px;
+}
+.Item-container{
+    display: flex;
+}
+#carts{
+    text-align: center;
+}
+.cart-part{
+    width: 20%;
+    box-shadow: 4px 4px 4px gray;
+    margin-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    text-align:center;
+    margin-left: 4px;
+    height: 100%;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.cart{
+    display: flex;
+    justify-content: space-around;
+   border: 1px dotted gray;
+   margin-bottom: 4px;
+   /* text-align: center; */
+   align-items: center;
+   
+}
+.it{
+    width: 20%;
+    border-radius: 50%;
+
+}
+.modaltext{
+    
+    text-align: left;
+}
+.imagemodal{
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    
+}
+.modalsmall{
+font-weight: 500;
+}
