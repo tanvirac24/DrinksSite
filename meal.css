@@ -88,3 +88,8 @@
 .modalsmall{
 font-weight: 500;
 }
+
+i{
+   display: flex;
+   justify-content: center;
+}
